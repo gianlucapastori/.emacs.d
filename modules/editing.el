@@ -1,0 +1,3 @@
+;;; editing.el
+
+(provide 'editing)
